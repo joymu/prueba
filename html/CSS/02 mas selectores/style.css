@@ -1,0 +1,19 @@
+p > a{color:red;}
+
+
+/* selector Hermano adjacente= adjacent sibling selector*/
+
+h2 + p{background: black;
+color:white;}
+
+/* general sibling = Hermano general */
+
+ul ~ p{background: yellow;}
+
+a + h2{
+	background: red;
+}
+
+/*selector de atrubutos */
+a[class~="baz"]{font-size: 25px;}
+

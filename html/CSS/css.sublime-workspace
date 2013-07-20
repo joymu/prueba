@@ -1,0 +1,765 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"latin",
+				"upper-latin"
+			],
+			[
+				"le",
+				"lower-latin"
+			],
+			[
+				"roma",
+				"upper-roman"
+			],
+			[
+				"de",
+				"decimal-leading-zero"
+			],
+			[
+				"tex",
+				"text-overflow"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"brig",
+				"brightcolor"
+			],
+			[
+				"bri",
+				"brightcolor"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"lig",
+				"lighten"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"the",
+				"the_permalink"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"in",
+				"INTRO"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"conte",
+				"contenedor"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"light",
+				"lightcolor"
+			],
+			[
+				"docu",
+				"document_root"
+			],
+			[
+				"proye",
+				"proyectos"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"inclu",
+				"include"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"busque",
+				"busqueda"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"bus",
+				"busqueda"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"busqueda",
+				"busqueda-boton"
+			],
+			[
+				"nav",
+				"nav-boton"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"template",
+				"templateDir"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"round",
+				"roundDeg"
+			],
+			[
+				"body",
+				"bodycolor"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"dictamen",
+				"dictamen-07"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"scal",
+				"scaleDownHeight"
+			],
+			[
+				"scale",
+				"scaleDownWidth"
+			],
+			[
+				"width",
+				"widthanimation"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"the_",
+				"the_title"
+			],
+			[
+				"curre",
+				"current-menu-item"
+			],
+			[
+				"curr",
+				"current-menu-item"
+			],
+			[
+				"current",
+				"current-category-ancestor"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"base",
+				"basecolor"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"bas",
+				"basecolor"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"overflo",
+				"overflow-y"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"sin",
+				"single-box-shadow"
+			],
+			[
+				"wrapper",
+				"wrapper-archive"
+			],
+			[
+				"noticia",
+				"noticia-reciente"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"Ab",
+				"Abril"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"SELE",
+				"select"
+			],
+			[
+				"asc",
+				"ASC"
+			],
+			[
+				"else",
+				"elseif	elseif …"
+			],
+			[
+				"sub-",
+				"sub-menu-renta"
+			],
+			[
+				"page",
+				"page-template-page-oferta-educativa-php"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"id_page_ancetor",
+				"id_page_ancestor1"
+			],
+			[
+				"cut",
+				"current_page_item"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pointe",
+				"pointelle-slider-nav"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"NOTICIAS",
+				"noticias"
+			],
+			[
+				"alt",
+				"altfont"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "16 box-model-concept/index.html",
+			"settings":
+			{
+				"buffer_size": 157,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/16 box-model-concept/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/16 box-model-concept/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/15 list-styles/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/15 list-styles/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/14 more-text-properties/texto.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/14 more-text-properties/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/14 more-text-properties/text-shadows.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/13 text-properties/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/13 text-properties/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/10 numeric-and-textual-data-types/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/10 numeric-and-textual-data-types/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/09 relative-lenght-units/font-relative-length-units/relative-length-units.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/09 relative-lenght-units/font-relative-length-units/relative-units.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/07 pseudo-elements/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/07 pseudo-elements/pseudo-elements.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/07 pseudo-elements/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/06 mas-pseudo-classes/pseudo-classes.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/06 mas-pseudo-classes/example.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/06 mas-pseudo-classes/example2.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/04 substring-matching-attribute-selectors/substring-matching.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/04 substring-matching-attribute-selectors/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/04 substring-matching-attribute-selectors/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/03 pseudoclasses/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/03 pseudoclasses/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/more-selectors/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/more-selectors/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/basic-selectors/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/basic-selectors/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/pseudo-elements/Final/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/pseudo-classes/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/pseudo-classes/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/floats/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/more-text-properties/text-shadows.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/more-text-properties/texto.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/more-text-properties/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/color-values/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/color-values/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/font-properties/style.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/font-properties/index.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/relative-lenght-units/font-relative-length-units/relative-units.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/relative-lenght-units/font-relative-length-units/relative-length-units.css",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/absolute-length-units/absolute-units.html",
+		"/D/Dropbox/Agencia NN (3)/Taller Programación Web/CSS/absolute-length-units/start/absolute-units.html",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/_variables.scss",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/footer.php",
+		"/D/Dropbox/Marcel Cabrera/Personal/portafolio/html/index.php",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/js/plugins.js",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/js/main.js",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/_1382.scss",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/_elements.scss",
+		"/C/Users/machelinos/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/header.php",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/functions.php",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/_site.scss",
+		"/D/Google Drive/web/coddica/.htaccess",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/inc/adaptive-images.php",
+		"/D/Google Drive/web/coddica/adaptive-images.php",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/searchform.php",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/_typography.scss",
+		"/D/Google Drive/web/coddica/safecode/wp-content/plugins/WP-Resolutions/adaptive-images.php",
+		"/D/Google Drive/web/coddica/safecode/wp-content/plugins/WP-Resolutions/wp_resolutions.php",
+		"/D/Google Drive/repositories/Adaptive-Images/.htaccess",
+		"/D/Google Drive/repositories/WP-Resolutions/Readme.md",
+		"/D/Google Drive/repositories/Adaptive-Images/readme.textile",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/img/busqueda-boton-white.svg",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/img/busqueda-boton.svg",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/_forms.scss",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/_plugins.scss",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/style.scss",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/index.php",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/page.php",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/style.css",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/apache/logs/error.log",
+		"/D/Google Drive/repositories/flexnav/css/flexnav.css",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/sidebar.php",
+		"/D/Google Drive/repositories/flexnav/js/jquery.flexnav.js",
+		"/D/Google Drive/repositories/flexnav/js/jquery.flexnav.min.js",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/_mixins.scss",
+		"/D/Google Drive/repositories/flexnav/css/page.css",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/_fonts.scss",
+		"/D/Google Drive/web/coddica/safecode/wp-content/themes/coddica-boilerplate-wp/scss-compass/_480.scss",
+		"/D/Google Drive/web/coddica/safecode/wp-config.php",
+		"/C/xampp/php/php.ini",
+		"/D/Google Drive/web/coddica/coddica.sublime-workspace",
+		"/D/Google Drive/web/coddica/index.php",
+		"/D/Google Drive/web/coddica/safecod/index.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/style.css",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/single.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/sidebar.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/searchform.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/search.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/screenshot.png",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/readme.md",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/footer.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/page.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/index.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/header.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/functions.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/comments.php",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/comments.php",
+		"/D/Google Drive/repositories/coddica-boilerplate-wp/archive.php",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/archive.php",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/404.php",
+		"/D/Google Drive/repositories/coddica-boilerplate/js/helper.js",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/footer.php",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/header.php",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/_/js/functions.js",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/page.php",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/index.php",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/_/js/selectivizr-min.js",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/_/js/script.js",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/_/inc/nav.php",
+		"/D/Dropbox/Agencia NN (3)/Lo Nuestro/Wordpress-starter-theme/320andup-granvia/_/inc/meta.php",
+		"/D/Google Drive/repositories/coddica-boilerplate/index.html",
+		"/D/Google Drive/repositories/coddica-boilerplate/404.html",
+		"/D/Google Drive/repositories/coddica-boilerplate/robots.txt",
+		"/D/Google Drive/repositories/coddica-boilerplate/humans.txt",
+		"/D/Google Drive/repositories/coddica-boilerplate/crossdomain.xml",
+		"/D/Google Drive/repositories/320andup/index.html",
+		"/D/Google Drive/repositories/coddica-boilerplate/js/plugins.js",
+		"/D/Google Drive/repositories/coddica-boilerplate/sass-compass/_normalize.scss",
+		"/D/Google Drive/repositories/normalize.css/normalize.css",
+		"/D/Google Drive/repositories/html5-boilerplate/.htaccess",
+		"/D/Google Drive/repositories/coddica-boilerplate/js/main.js",
+		"/D/Google Drive/repositories/coddica-boilerplate/sass-compass/estilos.scss",
+		"/D/Google Drive/repositories/coddica-boilerplate/sass-compass/_print.scss",
+		"/D/Google Drive/repositories/coddica-boilerplate/sass-compass/_texture.scss"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lightcolor",
+			".lightcolor",
+			"lightcolor",
+			".pdf",
+			"ribb",
+			"izq",
+			"search",
+			"Allow from 127.0.0.1",
+			"../fonts",
+			"directory",
+			"memory",
+			"Directory",
+			"DocumentRoot",
+			".whats_on_your_plate-arrow",
+			".whats_on_your_plate-slider",
+			".slider",
+			"whats_on_your_plate-plate",
+			".whats_on_your_plate-plate",
+			".slider",
+			"hr",
+			"basecolor",
+			"footer",
+			"child",
+			"font-family",
+			"rgb(38, 59, 118)",
+			"footer",
+			"http://www.marcelcabrera.mx/desarrollo/laredosafety",
+			".datos",
+			"cboxTitle",
+			"http://www.marcelcabrera.mx/desarrollo/edenes",
+			"@font-face",
+			"fonts",
+			"www.marcelcabrera.mx/desarrollo/ucs",
+			".wrapper",
+			"aside",
+			"page-template-page-oferta-educativa-php",
+			"frank",
+			"header .busqueda form#searchform input#s",
+			"frank",
+			"$altfont",
+			"frank",
+			"'frank'",
+			"$altfont",
+			"frank",
+			"'frank'",
+			"http://localhost/laredosafety",
+			"localhost",
+			"http://www.marcelcabrera.mx/desarrollo/laredo",
+			"http://www.marcelcabrera.mx/desarrollo",
+			"http://www.marcelcabrera.mx/desarrollo/laredosafety",
+			"http://localhost/",
+			"localhost",
+			"localhost/",
+			"localhost",
+			".contenido-principal",
+			"main-content",
+			"sidebar",
+			"inline-block",
+			"column",
+			"http://localhost/ucs",
+			"localhost",
+			"page-template-page-noticias-php",
+			".imagen-page",
+			".single",
+			"imagen-single",
+			"format",
+			"December",
+			"Month",
+			"en",
+			"lang",
+			"en-",
+			"lang",
+			".imagen-page",
+			"imagen-page",
+			"@include single-box-shadow",
+			".entry",
+			"entry",
+			"display_errors",
+			"8388608",
+			"max_upload_size",
+			"max size",
+			"max upload",
+			"altfontweight",
+			"clearfix",
+			"'lato",
+			"'cartogothicstd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fonts",
+			"http://www.laredosafety.com",
+			"http://www.edenes.com.mx",
+			"www.ucs.edu.mx",
+			"http://www.marcelcabrera.mx/desarrollo/ls",
+			"http://www.marcelcabrera.mx/desarrollo/laredosafety",
+			"http://www.marcelcabrera.mx/desarrollo/laredo",
+			"http://www.marcelcabrera.mx/desarrollo/",
+			"http://www.marcelcabrera.mx/",
+			"www.marcelcabrera.mx/desarrollo/",
+			"www.marcelcabrera.mx/desarrollo",
+			"http://www.marcelcabrera.mx/desarrollo/ucs",
+			"'_/fonts/lato",
+			"'_/fonts/cartogothicstd"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "16 box-model-concept/index.html",
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true
+}

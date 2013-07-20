@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8">
+		<title>Curso HTML- Formas</title>
+	</head>
+
+	<body>
+		<form method="post" action="form.php">
+			<fieldset>
+				<legend>Datos personales</legend>
+				<label for="nombre"> Nombre</label>
+				<input type="text" id="nombre" name="nombre" placeholder="Nombre">
+				<label for="pass"> Contrasena</label>
+				<input type="password" id="pass" name="pass" placeholder="Contrase&ntilde;a">
+
+				<input type="radio" id="hombre" name="genero" value="Hombre">Hombre
+				<input type="radio" id="mujer" name="genero" value="Mujer">Mujer<br>
+			</fieldset>
+
+
+
+			<input type="checkbox" id="uvas" name="frutas" value="Uvas">Uvas<br>
+			<input type="checkbox" id="sandia" name="frutas" value="Sandia">Sand&iacute;a<br>
+			<input type="checkbox" id="mango" name="frutas" value="Mango">Mango<br>
+			
+			<fieldset>
+				<legend>Datos Complemnatarios</legend>
+				<label for="email"> Email</label>
+				<input type="email" id="email" name="email" placeholder="Email"><br>
+				<label for="telefono"> Telefono</label>
+				<input type="tel" id="Telefono" name="tel" placeholder="Tel&eacute;fono"><br>
+				<label for="buscar"> Buscar</label>
+				<input type="search" id="buscar" name="search" placeholder="Buscar"><br>
+				<label for="mensaje"> Mensaje</label>
+				<textarea name="mensaje" id="mensaje">mensaje</textarea><br>
+			</fieldset>
+
+			<select>
+
+				<optgroup label="America">
+					<option>Norte America</option>
+					<option>Centro America</option>
+					<option>Sur America</option>
+				</optgroup>
+				<option>Am&eacute;rica</option>
+				<option>Europa</option>
+				<option>Africa</option>
+				<option>Asia</option>
+				<option>Ocean&iacute;a</option>
+			</select>
+
+
+			<input type="submit" value="Enviar">
+		</form>
+
+
+
+
+	</body>
+
+
+</html>
+
+

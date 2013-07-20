@@ -1,0 +1,24 @@
+
+.rounded-box {
+   width: 600px;
+   height: 400px;
+   background-color: #568E9D;
+
+   /*
+   border-top-left-radius: 130px;
+   border-top-right-radius: 20px;
+   border-bottom-left-radius: 150px;
+   border-bottom-right-radius: 150px;
+   */
+
+   border-radius: 0px;
+   border-top-right-radius: 40px;
+}
+
+
+.circulo{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	border-radius: 50%;
+}

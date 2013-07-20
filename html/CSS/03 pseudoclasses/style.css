@@ -1,0 +1,51 @@
+
+body {
+	font-size: 1.2em;
+	line-height: 1.5;
+	padding: 0 1em 2em;
+}
+
+input {
+	width: 150px;
+	padding: 6px;
+}
+
+
+/* --------------------
+	Pseudo-classes
+----------------------- */
+
+a{
+	background: #ccc;
+	color: red;
+}
+
+a:visited{
+	background: #000;
+	color: white;
+}
+
+a:hover{
+	background: blue;
+	color: yellow;
+}
+
+a:active{
+	font-size: 60px;
+}
+
+a:focus{
+	border: 2px solid red;
+}
+
+li:first-child{ 
+color:red;}
+
+li:last-child{
+	color:blue;
+}
+
+b:only-child{
+	color:tomato;
+}
+

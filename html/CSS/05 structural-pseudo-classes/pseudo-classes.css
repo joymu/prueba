@@ -1,0 +1,13 @@
+
+/* -----------------------------
+	Structural Pseudo-classes
+-------------------------------- */
+
+li:nth-last-child(2){
+	background: black;
+	color: white;
+}
+
+div:nth-of-type(2){
+	background: red;
+}

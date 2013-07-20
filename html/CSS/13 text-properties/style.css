@@ -1,0 +1,24 @@
+html{
+	font-size: 16px;
+}
+
+
+body {
+	padding: 2em 6em;
+}
+
+
+/* Text Styles
+--------------------------------------------- */
+p{
+	font-size: 1em;
+	line-height: 1.3em;
+	text-align: left;
+	text-indent: 1.5em;
+	white-space: normal;
+}
+
+h1{
+	text-decoration: underline;
+	text-transform: lowercase;
+}

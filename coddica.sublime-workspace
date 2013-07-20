@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"border-bot",
+				"border-bottom-right-radius"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"dec",
+				"decimal-leading-zero"
+			],
+			[
+				"lo",
+				"lower-greek"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"cle",
+				"clearfix"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"op",
+				"optgroup	Tag"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/joyce/Google Drive/coddica-static/proyectos/diseno-estructural.html",
+			"settings":
+			{
+				"buffer_size": 11200,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/joyce/Google Drive/coddica-static/proyectos/ucs.html",
+			"settings":
+			{
+				"buffer_size": 11352,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/joyce/Google Drive/coddica-static/sass-compass/_page.scss",
+		"/Users/joyce/Google Drive/coddica-static/proyectos/edenes.html",
+		"/Users/joyce/Google Drive/coddica-static/proyectos/index.html",
+		"/Users/joyce/Google Drive/coddica-static/proyectos/ucs.html",
+		"/Users/joyce/Google Drive/coddica-static/proyectos/destructural.html",
+		"/Users/joyce/Desktop/Web/html/CSS/22 box-shadows/style.css",
+		"/Users/joyce/Desktop/Web/html/CSS/23 advanced-backgrounds/style.css",
+		"/Users/joyce/Desktop/Web/html/CSS/23 advanced-backgrounds/index.html",
+		"/Users/joyce/Desktop/Web/html/CSS/21 border-radius/page-styles.css",
+		"/Users/joyce/Desktop/Web/html/CSS/21 border-radius/index.html",
+		"/Users/joyce/Desktop/Web/html/CSS/21 border-radius/style.css",
+		"/Users/joyce/Desktop/Web/html/CSS/18 floats/index.html",
+		"/Users/joyce/Desktop/Web/html/CSS/18 floats/style.css",
+		"/Users/joyce/Desktop/Web/html/CSS/17 width-height-overflow/style.css",
+		"/Users/joyce/Desktop/Web/html/CSS/17 width-height-overflow/index.html",
+		"/Users/joyce/Dropbox/agencia coddica/Taller Programación Web/CSS/16 box-model-concept/index.html",
+		"/Users/joyce/Dropbox/agencia coddica/Taller Programación Web/CSS/16 box-model-concept/style.css",
+		"/Users/joyce/Desktop/Web/html/CSS/08 absolute-length-units/page-styles.css",
+		"/Users/joyce/Desktop/Web/html/CSS/09 relative-lenght-units/font-relative-length-units/relative-length-units.css",
+		"/Users/joyce/Desktop/Web/html/CSS/10 numeric-and-textual-data-types/style.css",
+		"/Users/joyce/Desktop/Web/html/CSS/05 structural-pseudo-classes/pseudo-classes.css",
+		"/Users/joyce/Desktop/Web/html/CSS/06 mas-pseudo-classes/pseudo-classes.css",
+		"/Users/joyce/Desktop/Web/html/CSS/04 substring-matching-attribute-selectors/substring-matching.css",
+		"/Users/joyce/Desktop/Web/html/CSS/04 substring-matching-attribute-selectors/style.css",
+		"/Users/joyce/Desktop/Web/html/CSS/03 pseudoclasses/style.css",
+		"/Users/joyce/Desktop/Web/html/CSS/02 mas selectores/style.css",
+		"/Users/joyce/Desktop/Web/html/formas.html",
+		"/Users/joyce/Desktop/Web/html/archivos/theonion-fartscroll.js-a89e3fe/example.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/joyce/Google Drive/coddica-static/proyectos/diseno-estructural.html",
+					"settings":
+					{
+						"buffer_size": 11200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7010,
+								7010
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1416.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/joyce/Google Drive/coddica-static/proyectos/ucs.html",
+					"settings":
+					{
+						"buffer_size": 11352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6756,
+								6756
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1615.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

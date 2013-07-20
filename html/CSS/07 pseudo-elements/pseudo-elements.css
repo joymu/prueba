@@ -1,0 +1,16 @@
+
+/* ---------------------
+	Pseudo-elements
+------------------------ */
+.phone:before{
+	content:"Phone";
+}
+
+.pdf:after{
+	content:"(pdf)";
+}
+
+.pdf:before{
+	content: url(pdf.png);
+	margin-right: 10px;
+}
